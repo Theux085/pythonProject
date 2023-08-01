@@ -2,7 +2,6 @@
 # nome = input("Qual é o seu nome?")
 # print("Olá,", nome, ". Tudo bem com Voce?")
 # print(type(nome))
-
 a = 10
 b = 5.8
 c = "Rio de Janeiro"
